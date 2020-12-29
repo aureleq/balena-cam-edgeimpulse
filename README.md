@@ -1,3 +1,10 @@
+# NOTE
+
+This repository is deprecated. Check the new one on [Edge Impulse github](https://github.com/edgeimpulse/balena-cam-tinyml).
+
+---
+
+
 # Image classification using Edge Impulse and BalenaCloud
 
 This guide will help you deploy an image classification system running on a Raspberry Pi. [Edge Impulse](https://edgeimpulse.com) enables developers to create intelligent device solutions with embedded Machine Learning. You will learn how to easily acquire image samples using your smartphone, train your ML algorithm and deploy the inference engine on your device. [BalenaCloud](https://balena.io) is a container-based platform for deploying IoT applications.

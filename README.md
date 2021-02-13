@@ -94,7 +94,7 @@ You can download the WebAssembly on your computer though the library will be aut
 
 Click on the following link to deploy the application to your Balena account:
 
-[![](https://balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy)
+[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy)
 
 Once your application has been deployed, click on *Service variable* and add the two following variables to the *edgeimpulse-inference* service:
 * EI_API_KEY
